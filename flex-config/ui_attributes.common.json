@@ -423,6 +423,9 @@
         "enabled": false,
         "exclude_attributes": [],
         "exclude_queues": []
+      },
+      "terms_and_condition": {
+        "enabled": false
       }
     }
   }

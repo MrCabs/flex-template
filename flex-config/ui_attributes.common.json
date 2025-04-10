@@ -426,6 +426,9 @@
       },
       "terms_and_condition": {
         "enabled": false
+      },
+      "ucc_custom_hold_music": {
+        "enabled": false
       }
     }
   }
